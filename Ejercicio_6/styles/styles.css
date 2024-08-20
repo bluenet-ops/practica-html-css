@@ -1,0 +1,48 @@
+body{
+    background: rgb(60,62,65);
+    background: linear-gradient(205deg, rgba(60,62,65,1) 0%, rgba(16,16,36,1) 59%, rgba(64,125,138,1) 100%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 18px;
+}
+
+#titulo{
+    color: #5A72A0;
+    text-align: center;
+}
+
+p{
+    color: #FDFFE2;
+    text-align: justify;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+ul{
+    padding-left: 50px;
+    color: #FDFFE2;
+}
+ol{
+    color: #B4D6CD;
+}
+a{
+    color: darkturquoise;
+}
+
+div.albumes{
+    width: 300px;
+    border-left: 200px dotted darkslategrey;
+    padding: 50px;
+    margin: 20px;
+  }
+
+div.enlaces{
+    border: 20px outset gray;
+    padding: 10px 10px 10px 150px;
+    border-color: #5A72A0 gray;
+}

@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-image: url(./cool-background.png);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #3d68a4;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
